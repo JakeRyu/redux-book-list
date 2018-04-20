@@ -3,7 +3,6 @@ export default function () {
     {title: 'Java'},
     {title: 'Harry Porter'},
     {title: 'The Dark Tower'},
-    {title: 'Small Step'},
-    {title: 'Ruby'}
+    {title: 'Small Step'}
   ];
 }
